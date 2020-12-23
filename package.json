@@ -1,0 +1,22 @@
+{
+  "name": "nodeminiproject01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoLuize/NodeMiniProject_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoLuize/NodeMiniProject_1/issues"
+  },
+  "homepage": "https://github.com/LeonardoLuize/NodeMiniProject_1#readme",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
