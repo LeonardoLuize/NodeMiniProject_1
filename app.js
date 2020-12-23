@@ -13,7 +13,7 @@ function compressAndResize(x, y){
             if(error){
                 console.log(error);
             }else{
-                console.log("Aruivo comprimido com sucesso!!! :D")
+                console.log("Arquivo comprimido com sucesso!!! :D")
             }
         })
 
